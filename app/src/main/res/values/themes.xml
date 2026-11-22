@@ -1,0 +1,4 @@
+<resources>
+
+    <style name="Theme.Kopi_Senja" parent="Theme.MaterialComponents.Light" />
+</resources>
